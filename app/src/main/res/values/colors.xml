@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Discord dark palette -->
+    <color name="bg_primary">#0F1013</color>
+    <color name="bg_secondary">#17191D</color>
+    <color name="bg_tertiary">#1E2025</color>
+    <color name="bg_elevated">#2B2D34</color>
+
+    <color name="accent">#5865F2</color>
+    <color name="accent_dark">#4752C4</color>
+
+    <color name="text_primary">#F2F3F5</color>
+    <color name="text_secondary">#B5BAC1</color>
+    <color name="text_muted">#80848E</color>
+
+    <color name="green">#23A55A</color>
+    <color name="yellow">#F0B232</color>
+    <color name="error">#F23F43</color>
+    <color name="blue">#00AAFC</color>
+
+    <color name="divider">#2B2D34</color>
+
+    <!-- Status bar -->
+    <color name="status_bar">#0F1013</color>
+</resources>
